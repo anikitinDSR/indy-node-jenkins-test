@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: indy-perf-load
+Version: 1.0.20
+Summary: Indy node performance load
+Home-page: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: Indy Node performance load testing
+Platform: UNKNOWN
+Provides-Extra: tests
